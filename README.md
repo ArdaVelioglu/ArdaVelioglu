@@ -1,4 +1,3 @@
-## Hi there 👋
 ### Hi, I'm Arda Velioğlu 👋
 
 <p>
@@ -14,6 +13,8 @@
   <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat&logo=dassaultsystemes&logoColor=white" />
   <img src="https://img.shields.io/badge/Fusion_360-0696D7?style=flat&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=flat&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Vibecoding-7C3AED?style=flat&logo=openai&logoColor=white" />
 </p>
 
@@ -22,23 +23,9 @@
 ### 🚀 What I Do
 
 - **Mechanical Design & CAD:** Developing precise 3D mechanical components, assemblies, and manufacturing workflows using SolidWorks and Autodesk Fusion 360.
-- **Engineering & Simulation:** Applying mathematical modeling, linear algebra, and programming logic via C and MATLAB to solve complex engineering problems.
-- **Vibecoding & Software:** Building fast, efficient applications and prototyping concepts through modern AI-assisted coding methodologies.
+- **Engineering & Simulation:** Applying mathematical modeling, linear algebra, and MATLAB to analyze and solve complex mechanical problems.
+- **AI-Driven & Vibecoding:** Building fast, efficient applications and prototyping software concepts using advanced AI tools like Cursor and Claude.
 
 ---
 
 📫 **Get in Touch:** `arda.velioglu2026@gmail.com`
-<!--
-**ArdaVelioglu/ArdaVelioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
